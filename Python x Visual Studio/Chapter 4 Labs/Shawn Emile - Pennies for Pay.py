@@ -1,6 +1,4 @@
-print("Hello, I'm the Penny Pincher Bot. I'm trained to count how many pennies")
-print("you save. We'll be using the compound method. It's smart saving!")
-print("Lets start with one penny on day one.")
+print("Hello, I'm the Penny Pincher Bot. I'm trained to count how many pennies\nyou save. We'll be using the compound method. It's smart saving!\nLets start with one penny on day one.")
 days = int(input("How many days will you be saving for?: "))
 salary = 0.01
 tp = 0.0
